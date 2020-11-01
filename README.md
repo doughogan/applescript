@@ -1,4 +1,4 @@
-# applescript
+# AppleScript Window Management
 
 I often find myself really annoyed with applications launching in giant windows. It's especially annoying when they cover up all of the Desktop, or more than 45% of the screen. It's annoying when they block stuff I'm doing.
 
